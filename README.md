@@ -1,4 +1,4 @@
 golang
 ======
 
-GO language programs
+GO language programs.
